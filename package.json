@@ -1,0 +1,26 @@
+{
+  "name": "mahjong-ways-2-malaysia-tips",
+  "version": "1.0.0",
+  "description": "Free online mahjong ways game for Malaysian players",
+  "main": "index.html",
+  "keywords": [
+    "mahjong ways",
+    "online-game",
+    "casino",
+    "browser-game",
+    "javascript",
+    "html5",
+    "free-game",
+    "malaysia"
+  ],
+  "author": "Karigor Mahjong",
+  "license": "MIT",
+  "homepage": "https://johmark2026-svg.github.io/mahjong-ways-2-malaysia-tips/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johmark2026-svg/mahjong-ways-2-malaysia-tips.git"
+  },
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  }
+}

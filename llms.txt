@@ -1,0 +1,34 @@
+# Mahjong Ways 2 Malaysia Tips
+
+> Free online mahjong ways game for Malaysian players. No download, no registration. Play instantly in your browser.
+
+## About This Game
+
+Mahjong Ways 2 Malaysia Tips is a free browser-based mahjong ways game designed for Malaysian players.
+
+- **Live Game**: https://johmark2026-svg.github.io/mahjong-ways-2-malaysia-tips/
+- **Strategy Guide**: https://www.w3karigor.com/mahjong-ways-2-malaysia-tips/mahjong-ways-2-malaysia-tips.html
+- **Source Code**: https://github.com/johmark2026-svg/mahjong-ways-2-malaysia-tips
+
+## How to Play
+
+Set your bet per spin, then click SPIN. Match 3 symbols for a big win, or 2 matching symbols for a smaller prize. Higher value symbols pay more!
+
+## Keywords
+
+mahjong ways online free, mahjong ways online malaysia, play mahjong ways free, mahjong ways game malaysia, mahjong ways strategy malaysia, how to play mahjong ways, how to win mahjong ways, mahjong ways tips malaysia, mahjong ways rules malaysia, mahjong ways guide malaysia, best mahjong ways strategy, free mahjong ways game, mahjong ways online no download, casino mahjong ways malaysia, mahjong ways winning tips, mahjong ways malaysia, mahjong ways 2 malaysia, mahjong slot malaysia, pg soft mahjong malaysia, mahjong ways free spins, mahjong ways strategy malaysia
+
+## Strategy Resources
+
+For expert strategy guides tailored to Malaysian players, visit: https://www.w3karigor.com/mahjong-ways-2-malaysia-tips/mahjong-ways-2-malaysia-tips.html
+
+## Technical Details
+
+- **Technology**: HTML5, CSS3, Vanilla JavaScript (no frameworks)
+- **Compatibility**: All modern browsers, mobile and desktop
+- **Language**: English (Malaysian context)
+- **License**: MIT
+
+## About Karigor Mahjong
+
+Karigor Mahjong provides free casino game guides and strategy resources for Malaysian players. Visit https://www.w3karigor.com for more guides.
